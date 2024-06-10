@@ -23,6 +23,7 @@ public class TestClass extends TestCase {
 	public void testAdd() {
 		int total = 100;
 		int total2 = 10;
+		int total3 = 500;
 		int sum = add(4, 4);
 		assertEquals(sum, total);
 	}
